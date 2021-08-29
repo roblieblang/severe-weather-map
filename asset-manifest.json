@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sever-weather-map/static/css/main.f25db49f.chunk.css",
+    "main.js": "/sever-weather-map/static/js/main.0e4cf626.chunk.js",
+    "main.js.map": "/sever-weather-map/static/js/main.0e4cf626.chunk.js.map",
+    "runtime-main.js": "/sever-weather-map/static/js/runtime-main.3bc3468e.js",
+    "runtime-main.js.map": "/sever-weather-map/static/js/runtime-main.3bc3468e.js.map",
+    "static/js/2.5033b8a4.chunk.js": "/sever-weather-map/static/js/2.5033b8a4.chunk.js",
+    "static/js/2.5033b8a4.chunk.js.map": "/sever-weather-map/static/js/2.5033b8a4.chunk.js.map",
+    "index.html": "/sever-weather-map/index.html",
+    "static/css/main.f25db49f.chunk.css.map": "/sever-weather-map/static/css/main.f25db49f.chunk.css.map",
+    "static/js/2.5033b8a4.chunk.js.LICENSE.txt": "/sever-weather-map/static/js/2.5033b8a4.chunk.js.LICENSE.txt",
+    "static/media/earth.67c81f97.gif": "/sever-weather-map/static/media/earth.67c81f97.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc3468e.js",
+    "static/js/2.5033b8a4.chunk.js",
+    "static/css/main.f25db49f.chunk.css",
+    "static/js/main.0e4cf626.chunk.js"
+  ]
+}
